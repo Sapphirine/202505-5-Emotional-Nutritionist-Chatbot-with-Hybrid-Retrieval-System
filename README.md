@@ -11,6 +11,7 @@ Video Presentation: https://youtu.be/Bby2bW6jyYA
 
 Slides Presentation: https://docs.google.com/presentation/d/1CFHcqhJ0XkiMec770ZapP8YFnuan0mBZlDV2mz_ktak/edit?slide=id.g350fa77083f_0_2#slide=id.g350fa77083f_0_2
 
+-------------------
 Core Model:
 
 Leverages OpenAI's GPT-4o for high-quality natural language understanding
