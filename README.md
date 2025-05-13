@@ -7,6 +7,8 @@ Author: Yigang Meng (UNI: YM3068)
 Project Focus:
 Build an Emotion-Aware Nutritionist Chatbot that combines emotion classification with retrieval-augmented generation (RAG) to deliver personalized and contextually relevant dietary advice.
 
+Video Presentation: https://youtu.be/Bby2bW6jyYA
+
 Core Model:
 
 Leverages OpenAI's GPT-4o for high-quality natural language understanding
